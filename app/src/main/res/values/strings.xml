@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Javacademy</string>
+    <string name="quote_image">quote-image</string>
+    <string name="question_image">question_image</string>
+    <string name="questions_remaining">TextView</string>
+    <string name="textView">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="answer2">Button</string>
+    <string name="answer0">Button</string>
+    <string name="answer3">Button</string>
+    <string name="answer1">Button</string>
+    <string name="question">Famous advice from an iconic mentor. Which fictional character really imparted this bit of sage wisdom?</string>
+    <string name="code">code</string>
+</resources>
